@@ -7,5 +7,11 @@ This program asks the user how many hours they studied today and then estimates 
 Open a terminal in this folder and run:
 
 ```bash
+python3 app.py
+```
+
+If your system uses python instead of python3, you can run:
+
+```bash
 python app.py
 ```
